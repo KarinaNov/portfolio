@@ -1,3 +1,3 @@
 # portfolio
-npm i
+npm i,         
 gulp
